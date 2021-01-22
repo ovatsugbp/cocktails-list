@@ -10,7 +10,7 @@ The React Hooks useReduce, UseRef, UseState and useEffect were used to provide d
 - CSS
 
 ### See yourself!
-you cant test [here 🍹](https://cokctails-list-react.netlify.app/)
+you can test [here 🍹](https://cokctails-list-react.netlify.app/)
 
 
 <p align="center">
